@@ -1,0 +1,9 @@
+"pip install tkinter"
+tkinter
+ollama
+pyttsx3
+SpeechRecognition
+pyaudio
+pillow
+pypdf2
+sympy
